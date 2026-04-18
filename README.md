@@ -1,12 +1,12 @@
-# hostlocal | Servidor Local Rapido
+# HostLocal | Servidor Local Rapido
 
-<img src="assets/logo/logo-png.png" width="200" alt="hostlocal Logo">
+<img src="assets/logo/logo-png.png" width="200" alt="HostLocal Logo">
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 
-hostlocal permite levantar un servidor HTTP de forma instantanea en cualquier directorio de tu ordenador, proporcionando una interfaz sencilla para gestionar el puerto y la visibilidad del servidor.
+HostLocal permite levantar un servidor HTTP de forma instantanea en cualquier directorio de tu ordenador, proporcionando una interfaz sencilla para gestionar el puerto y la visibilidad del servidor.
 
 ## Vista Previa
 
